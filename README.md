@@ -5,6 +5,6 @@ You can see all terminal commands for any OS.
     
     https://ss64.com
 
-# pip freeze document
+# Pip freeze document
 
     https://pip.pypa.io/en/stable/reference/pip_freeze/#description
